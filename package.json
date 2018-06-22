@@ -1,0 +1,22 @@
+{
+    "name": "radioactive-vscode",
+    "displayName": "radioactive-vscode",
+    "description": "The radioactive theme for vs code",
+    "version": "0.0.1",
+    "publisher": "andrewhaine",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "radioactive",
+                "uiTheme": "vs-dark",
+                "path": "./themes/radioactive-color-theme.json"
+            }
+        ]
+    }
+}
