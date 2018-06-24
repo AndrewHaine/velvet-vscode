@@ -1,7 +1,7 @@
 {
-    "name": "radioactive-vscode",
-    "displayName": "radioactive-vscode",
-    "description": "The radioactive theme for vs code",
+    "name": "velvet-vscode",
+    "displayName": "Velvet Theme",
+    "description": "The velvet theme for vs code",
     "version": "0.0.1",
     "publisher": "andrewhaine",
     "engines": {
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "radioactive",
+                "label": "Velvet",
                 "uiTheme": "vs-dark",
-                "path": "./themes/radioactive-color-theme.json"
+                "path": "./themes/velvet.json"
             }
         ]
     }
