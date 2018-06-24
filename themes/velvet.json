@@ -2,10 +2,37 @@
 	"name": "velvet",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
-		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		// Activity Bar Colors
+		"activityBar.background": "#25253C",
+		"activityBarBadge.background": "#308E3B",
+		// Badges
+		"badge.background": "#308E3B",
+		// Editor Body Colors
+		"editor.background": "#2C2C49",
+		"editor.foreground": "#fafafa",
+		"editorGutter.background": "#272740",
+		"editorGutter.addedBackground": "#3C3C63",
+		"editorGutter.modifiedBackground": "#3C3C63",
+		// Editor Group Colors
+		"editorGroup.background": "#272740",
+		"editorGroup.dropBackground": "#fafafa1a",
+		"editorGroupHeader.tabsBackground": "#272740",
+		"editorGroupHeader.tabsBorder": "#1A1B2F",
+		// Widget Bar Colors
+		"sideBar.background": "#1A1B2F",
+		"sidebar.border": "#32334B",
+		"sideBarSectionHeader.background": "#2C2C49",
+		"sideBarTitle.background": "#bbbbbb",
+		"sideBarTitle.foreground": "#bbbbbb",
+		// Status Bar Colors
+		"statusBar.background": "#1A1B2D",
+		"statusBar.border": "#70739F",
+		// Tab Colors
+		"tab.border": "#1A1B2F",
+		"tab.inactiveBackground": "#272740",
+		// Title Bar Colors
+		"titleBar.activeBackground": "#1A1B2D",
+		"titleBar.activeForeground": "#fafafa"
 	},
 	"tokenColors": [
 		{
