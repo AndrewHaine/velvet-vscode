@@ -4,9 +4,17 @@
 	"colors": {
 		// Activity Bar Colors
 		"activityBar.background": "#25253C",
-		"activityBarBadge.background": "#308E3B",
+		"activityBar.dropBackground": "#25253C",
+		"activityBarBadge.background": "#F1E43A",
+		"activityBarBadge.foreground": "#1A1B2D",
 		// Badges
-		"badge.background": "#308E3B",
+		"badge.background": "#F1E43A",
+		"badge.foreground": "#1A1B2D",
+		// Buttons
+		"button.background": "#5D5AAF",
+		// Dropdowns
+		"dropdown.background": "#1A1B31",
+		"dropdown.border": "#383469",
 		// Editor Body Colors
 		"editor.background": "#2C2C49",
 		"editor.foreground": "#fafafa",
@@ -18,6 +26,25 @@
 		"editorGroup.dropBackground": "#fafafa1a",
 		"editorGroupHeader.tabsBackground": "#272740",
 		"editorGroupHeader.tabsBorder": "#1A1B2F",
+		// Editor Widgets
+		"editorHoverWidget.background": "#5D5AAF",
+		"editorWidget.background": "#1A1B2D",
+		"editorWidget.border": "#383469",
+		// Focus Border
+		"focusBorder": "#383469",
+		// Text inputs
+		"input.background": "#2C2C49",
+		"input.border": "#383469",
+		"inputOption.activeBorder": "#383469",
+		"inputValidation.infoBorder": "#383469",
+		// Lists
+		"list.activeSelectionBackground": "#5D5AAF",
+		"list.dropBackground": "#fafafa1a",
+		"list.focusBackground": "#2C2B4B",
+		"list.highlightForeground": "#F1E43A",
+		"list.hoverBackground": "#25253E",
+		"list.inactiveFocusBackground": "#2C2B4B",
+		"list.inactiveSelectionBackground": "#2C2B4B",
 		// Widget Bar Colors
 		"sideBar.background": "#1A1B2F",
 		"sidebar.border": "#32334B",
@@ -32,7 +59,7 @@
 		"tab.inactiveBackground": "#272740",
 		// Title Bar Colors
 		"titleBar.activeBackground": "#1A1B2D",
-		"titleBar.activeForeground": "#fafafa"
+		"titleBar.activeForeground": "#48476E"
 	},
 	"tokenColors": [
 		{
