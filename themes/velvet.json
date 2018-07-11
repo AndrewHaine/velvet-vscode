@@ -18,6 +18,13 @@
 		// Editor Body Colors
 		"editor.background": "#2C2C49",
 		"editor.foreground": "#fafafa",
+		"editor.selectionBackground": "#444366",
+		"editor.selectionHighlightBorder": "#5F5CA7",
+		"editor.wordHighlightBackground": "#444366",
+		"editor.wordHighlightBorder": "#5F5CA7",
+		"editor.wordHighlightStrongBackground": "#4E4C91",
+		"editor.wordHighlightStrongBorder": "#5F5CA7",
+		// Editor Gutter
 		"editorGutter.background": "#272740",
 		"editorGutter.addedBackground": "#3C3C63",
 		"editorGutter.modifiedBackground": "#3C3C63",
