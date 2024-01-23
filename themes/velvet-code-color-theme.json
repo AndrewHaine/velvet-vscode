@@ -4,7 +4,6 @@
 	"colors": {
 		// Activity Bar Colors
 		"activityBar.background": "#25253C",
-		"activityBar.dropBackground": "#25253C",
 		"activityBarBadge.background": "#F1E43A",
 		"activityBarBadge.foreground": "#1A1B2D",
 		// Badges
@@ -29,7 +28,6 @@
 		"editorGutter.addedBackground": "#3C3C63",
 		"editorGutter.modifiedBackground": "#3C3C63",
 		// Editor Group Colors
-		"editorGroup.background": "#272740",
 		"editorGroup.dropBackground": "#fafafa1a",
 		"editorGroupHeader.tabsBackground": "#272740",
 		"editorGroupHeader.tabsBorder": "#1A1B2F",
@@ -54,9 +52,7 @@
 		"list.inactiveSelectionBackground": "#2C2B4B",
 		// Widget Bar Colors
 		"sideBar.background": "#1A1B2F",
-		"sidebar.border": "#32334B",
 		"sideBarSectionHeader.background": "#2C2C49",
-		"sideBarTitle.background": "#bbbbbb",
 		"sideBarTitle.foreground": "#bbbbbb",
 		// Status Bar Colors
 		"statusBar.background": "#1A1B2D",
@@ -72,7 +68,6 @@
 		{
 			"settings": {
 				"foreground": "#eeffffff",
-				"background": "#263238ff"
 			}
 		},
 		{
@@ -217,7 +212,6 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "normal",
 				"foreground": "#C3E88D"
 			}
 		},
@@ -531,7 +525,6 @@
 				"text.html.markdown meta.dummy.line-break"
 			],
 			"settings": {
-				"foreground": ""
 			}
 		},
 		{
@@ -597,8 +590,7 @@
 				"markup.strike"
 			],
 			"settings": {
-				"fontStyle": "strike",
-				"foreground": ""
+				"fontStyle": "strikethrough",
 			}
 		},
 		{
@@ -607,7 +599,6 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"background": "#65737E",
 				"foreground": "#65737E"
 			}
 		},
@@ -618,7 +609,6 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": ""
 			}
 		},
 		{
@@ -702,7 +692,6 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"background": "#00000050",
 				"foreground": "#65737E"
 			}
 		},

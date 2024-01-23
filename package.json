@@ -1,27 +1,25 @@
 {
-    "name": "velvet-vscode",
-    "displayName": "Velvet Theme",
-    "description": "The velvet theme for vs code",
-    "version": "0.0.1",
-    "publisher": "andrewhaine",
-    "icon": "images/velvet.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/AndrewHaine/velvet-vscode"
-    },
-    "engines": {
-        "vscode": "^1.24.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Velvet",
-                "uiTheme": "vs-dark",
-                "path": "./themes/velvet.json"
-            }
-        ]
-    }
+  "name": "velvet-theme",
+  "displayName": "Velvet",
+  "author": "AndrewHaine",
+  "publisher": "AndrewHaine",
+  "description": "Velvet colour theme for VSCode",
+  "repository": "https://github.com/AndrewHaine/velvet-vscode",
+  "version": "1.0.0",
+  "icon": "images/velvet.png",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Velvet VSCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/velvet-code-color-theme.json"
+      }
+    ]
+  }
 }
